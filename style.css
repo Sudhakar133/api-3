@@ -1,0 +1,41 @@
+i{
+    width: 30px;
+    height: 30px;
+    color: white;
+}
+.bg-light {
+    background-color: black!important;
+}
+span{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 153, 255);
+}
+body{
+    background-color: rgba(88, 85, 248, 0.17);
+
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+}
+.main1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.res{
+    margin-top: 20px;
+    font-size: 25px;
+    padding: 20px;
+    text-align: center;
+}
+.instruct{
+    text-align: center;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.108);
+}
+span{
+    color: black;
+}
